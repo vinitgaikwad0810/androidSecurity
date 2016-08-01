@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="startButton" type="id">startButton</item>
+    <item name="stopButton" type="id">stopButton</item>
+    <item name="bindButton" type="id">bindButton</item>
+    <item name="releaseButton" type="id">releaseButton</item>
+    <item name="invokeButton" type="id">invokeButton</item>
+    <item name="serviceStatus" type="id">serviceStatus</item>
+    <item name="notApplicable" type="id">notApplicable</item>
+</resources>

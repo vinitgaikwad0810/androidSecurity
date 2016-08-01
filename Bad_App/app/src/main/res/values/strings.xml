@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bad_App</string>
+    <string name="permissionDesc">permissionDesc</string>
+    <string name="permissionLabel">permissionLabel</string>
+</resources>
