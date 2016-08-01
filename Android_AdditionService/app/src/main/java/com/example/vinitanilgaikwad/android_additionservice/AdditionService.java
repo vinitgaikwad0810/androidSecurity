@@ -24,7 +24,7 @@ public class AdditionService extends Service {
         @Override
         public int add(int num1, int num2) throws RemoteException {
             // TODO Auto-generated method stub
-            Log.d("Vinit", "Give numbers are " + num1 + num2);
+            Log.d("debug", "Give numbers are " + num1 + num2);
             return (num1 + num2);
         }
 
